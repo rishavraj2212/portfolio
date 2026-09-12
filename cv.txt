@@ -1,0 +1,31 @@
+RISHAV RAJ
+B.Tech Computer Science Engineering Student
+
+Email: rishavrajputrajput@gmail.com
+Phone: +91 9693002489
+GitHub: https://github.com/rishavraj2212
+LinkedIn: https://www.linkedin.com/in/rishav-raj/
+
+ABOUT
+I am a B.Tech Computer Science Engineering student passionate about
+Web Development, JavaScript and Software Development.
+
+EDUCATION
+B.Tech in Computer Science Engineering
+Currently Pursuing
+
+SKILLS
+HTML
+CSS
+JavaScript
+Computer Networks
+Software Engineering
+
+PROJECTS
+1. Personal Portfolio Website
+2. Spotify Web Player Clone
+3. AI Assistant
+
+CAREER GOAL
+To become a skilled Software Developer and build useful,
+scalable and innovative applications.

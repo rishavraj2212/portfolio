@@ -1,0 +1,19 @@
+// ==================== PORTFOLIO JAVASCRIPT ====================
+
+// Page loaded successfully
+console.log("Rishav Raj Portfolio Loaded");
+
+// Highlight current page in navbar
+const currentPage = window.location.pathname.split("/").pop();
+
+const navLinks = document.querySelectorAll(".nav-links a");
+
+navLinks.forEach((link) => {
+
+    const linkPage = link.getAttribute("href");
+
+    if (linkPage === currentPage) {
+        link.classList.add("active");
+    }
+
+});
